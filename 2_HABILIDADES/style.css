@@ -1,0 +1,2729 @@
+._2-habilidades,
+._2-habilidades * {
+  box-sizing: border-box;
+}
+._2-habilidades {
+  background: #0f051c;
+  height: 2100px;
+  position: relative;
+  overflow: hidden;
+}
+.bottombar {
+  background: #ffac00;
+  padding: 44px 206px 44px 210px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 1500px;
+  height: 152.46px;
+  position: absolute;
+  left: 0px;
+  top: 1948px;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro {
+  color: #0f051c;
+  text-align: left;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span2 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 35px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span3 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span4 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span5 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span6 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span7 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span8 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span9 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span10 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span11 {
+  color: #0f051c;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.skill-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 305px;
+  height: 1422px;
+  position: absolute;
+  left: 1256px;
+  top: 417px;
+}
+.skill-figma {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.info {
+  flex-shrink: 0;
+  width: 200px;
+  height: 200px;
+  position: static;
+}
+.skill {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 7px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.time {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 32px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.jobs {
+  width: 100px;
+  height: 100px;
+  position: static;
+  aspect-ratio: 1;
+}
+._100 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 57px;
+  aspect-ratio: 1;
+}
+._1002 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 57px;
+  aspect-ratio: 1;
+}
+.skill-text {
+  flex-shrink: 0;
+  width: 368px;
+  height: 267px;
+  position: static;
+}
+.n-vel-de-habilidade-especialista-80 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 8px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-especialista-80-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-80-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-especialista-80-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-80-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-especialista-80-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-especialista-8-anos {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 76px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-especialista-8-anos-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-especialista-8-anos-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-especialista-8-anos-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-especialista-8-anos-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-especialista-8-anos-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-20-projetos {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 146px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-20-projetos-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-20-projetos-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.trabalhos-entregues-expert-20-projetos-span3 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.u-x-research {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -50px;
+  width: 368px;
+  height: 41px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.skill-vs-code {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.skill2 {
+  width: 200px;
+  height: 200px;
+  position: static;
+  aspect-ratio: 1;
+}
+._1003 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.3);
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 16px;
+  aspect-ratio: 1;
+}
+._1004 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 16px;
+  aspect-ratio: 1;
+}
+.time2 {
+  width: 150px;
+  height: 150px;
+  position: static;
+  aspect-ratio: 1;
+}
+._1005 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.3);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 41px;
+  aspect-ratio: 1;
+}
+._1006 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.7);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 41px;
+  aspect-ratio: 1;
+}
+._1007 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 66px;
+  aspect-ratio: 1;
+}
+._1008 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 66px;
+  aspect-ratio: 1;
+}
+.skill-text2 {
+  flex-shrink: 0;
+  width: 325px;
+  height: 265px;
+  position: static;
+}
+.n-vel-de-habilidade-especialista-100 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 7px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-especialista-100-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-100-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-especialista-100-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-100-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-especialista-100-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-razo-vel-10-anos {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 75px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-razo-vel-10-anos-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-razo-vel-10-anos-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-razo-vel-10-anos-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-razo-vel-10-anos-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-especialista-20-proj {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 145px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-especialista-20-proj-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-especialista-20-proj-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.u-x-strategy {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -225px;
+  top: -49px;
+  width: 325px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.skill-accloud {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.info2 {
+  flex-shrink: 0;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 6px;
+  overflow: visible;
+}
+.skill-text3 {
+  flex-shrink: 0;
+  width: 368px;
+  height: 316px;
+  position: static;
+}
+.n-vel-de-habilidade-especialista-802 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 6.54px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-especialista-802-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-802-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-especialista-802-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-802-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-especialista-802-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-habilidoso-6-anos {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 75px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-habilidoso-6-anos-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-habilidoso-6-anos-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-habilidoso-6-anos-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-habilidoso-6-anos-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-habilidoso-6-anos-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-habilidoso-10-proj {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 145px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-habilidoso-10-proj-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-habilidoso-10-proj-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.trabalhos-entregues-habilidoso-10-proj-span3 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.scrum-e-metodologias-ageis {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -228px;
+  top: -100px;
+  width: 368px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.scrum-e-metodologias-ageis-span {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.scrum-e-metodologias-ageis-span2 {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  text-transform: lowercase;
+}
+.scrum-e-metodologias-ageis-span3 {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.skill-worpress {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+._1009 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.3);
+  border-width: 18.75px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 7px;
+  aspect-ratio: 1;
+}
+._10010 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 18.75px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 7px;
+  aspect-ratio: 1;
+}
+._10011 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.3);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 32px;
+  aspect-ratio: 1;
+}
+._60 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.7);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 32px;
+  aspect-ratio: 1;
+}
+._10012 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 18.75px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 57px;
+  aspect-ratio: 1;
+}
+._10013 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 18.75px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 57px;
+  aspect-ratio: 1;
+}
+.skill-text4 {
+  flex-shrink: 0;
+  width: 399px;
+  height: 265.46px;
+  position: static;
+}
+.n-vel-de-habilidade-expert-100 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 12.46px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-100-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-100-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-100-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-100-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-h-abilidoso-60 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 80.46px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-h-abilidoso-60-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-h-abilidoso-60-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-h-abilidoso-60-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-h-abilidoso-60-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-100 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 150.46px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-100-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-100-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.word-press {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -44px;
+  width: 399px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.skill-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 315px;
+  height: 1431px;
+  position: absolute;
+  left: 761px;
+  top: 408px;
+}
+.skill-figma2 {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 315px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.div {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 16px;
+  aspect-ratio: 1;
+}
+.skill-text5 {
+  flex-shrink: 0;
+  width: 376px;
+  height: 308px;
+  position: static;
+}
+.n-vel-de-habilidade-expert-1002 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 17px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-1002-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1002-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-1002-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1002-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-expert-1002-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-expert-10-anos {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 85px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-expert-10-anos-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-expert-10-anos-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-expert-10-anos-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-20-projetos2 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 155px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-20-projetos-2-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-20-projetos-2-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.trabalhos-entregues-expert-20-projetos-2-span3 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.wireframes-prot-tipos {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -82px;
+  width: 376px;
+  height: 82px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.skill-vs-code2 {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 315px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.skill3 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 15px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.time3 {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 40px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+._10014 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 65px;
+  aspect-ratio: 1;
+}
+._10015 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 65px;
+  aspect-ratio: 1;
+}
+.skill-text6 {
+  flex-shrink: 0;
+  width: 418px;
+  height: 265px;
+  position: static;
+}
+.n-vel-de-habilidade-expert-1003 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 6px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-1003-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1003-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-1003-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1003-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-especialista-8-anos2 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 74px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-especialista-8-anos-2-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-especialista-8-anos-2-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-especialista-8-anos-2-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-especialista-8-anos-2-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-especialista-8-anos-2-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-15-proj {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 144px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-15-proj-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-15-proj-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.jornada-do-usu-rio {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -50px;
+  width: 418px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.jornada-do-usu-rio-span {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.jornada-do-usu-rio-span2 {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  text-transform: lowercase;
+}
+.jornada-do-usu-rio-span3 {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.skill-accloud2 {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 315px;
+  position: relative;
+  aspect-ratio: 1;
+}
+._10016 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -5px;
+  aspect-ratio: 1;
+}
+._10017 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.7);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 20px;
+  aspect-ratio: 1;
+}
+._10018 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 45px;
+  aspect-ratio: 1;
+}
+._10019 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 45px;
+  aspect-ratio: 1;
+}
+.skill-text7 {
+  flex-shrink: 0;
+  width: 368px;
+  height: 305px;
+  position: static;
+}
+.n-vel-de-habilidade-expert-1004 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -4.46px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-1004-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1004-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-1004-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1004-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-expert-1004-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-expert-10-anos2 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 64px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-expert-10-anos-2-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-2-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-expert-10-anos-2-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-2-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-expert-10-anos-2-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-1002 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 134px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-1002-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-1002-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.trabalhos-entregues-expert-1002-span3 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.arquitetura-da-informa-o {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -100px;
+  width: 368px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.arquitetura-da-informa-o-span {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.arquitetura-da-informa-o-span2 {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  text-transform: lowercase;
+}
+.arquitetura-da-informa-o-span3 {
+  color: #ffac00;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+.skill-worpress2 {
+  padding: 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 315px;
+  position: relative;
+  aspect-ratio: 1;
+}
+._10020 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.3);
+  border-width: 18.75px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -14px;
+  aspect-ratio: 1;
+}
+._10021 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 18.75px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -14px;
+  aspect-ratio: 1;
+}
+._10022 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.3);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 11px;
+  aspect-ratio: 1;
+}
+._10023 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.7);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 11px;
+  aspect-ratio: 1;
+}
+._10024 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 18.75px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 36px;
+  aspect-ratio: 1;
+}
+._10025 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 18.75px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 36px;
+  aspect-ratio: 1;
+}
+.skill-text8 {
+  flex-shrink: 0;
+  width: 437px;
+  height: 265px;
+  position: static;
+}
+.n-vel-de-habilidade-expert-1005 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -9px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-1005-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1005-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-1005-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1005-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-expert-1005-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-expert-10-anos3 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 59px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-expert-10-anos-3-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-3-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-expert-10-anos-3-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-3-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-expert-10-anos-3-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-20-proj {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 129px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-20-proj-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-20-proj-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.interfaces-responsivas {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -65px;
+  width: 437px;
+  height: 36px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.skill-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 100px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 305px;
+  height: 1406px;
+  position: absolute;
+  left: 276px;
+  top: 433px;
+}
+.skill-figma3 {
+  padding: 100px 28.12px 100px 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+._10026 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.3);
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -9px;
+  aspect-ratio: 1;
+}
+.div2 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -9px;
+  aspect-ratio: 1;
+}
+.time4 {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 16px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+._10027 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 41px;
+  aspect-ratio: 1;
+}
+._10028 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 41px;
+  aspect-ratio: 1;
+}
+.skill-text9 {
+  flex-shrink: 0;
+  width: 318px;
+  height: 265px;
+  position: static;
+}
+.n-vel-de-habilidade-expert-1006 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -8px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-1006-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1006-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-1006-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1006-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-expert-1006-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-especialista-8-anos3 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 60px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-especialista-8-anos-3-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-especialista-8-anos-3-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-especialista-8-anos-3-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-especialista-8-anos-3-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-especialista-8-anos-3-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-20-proj2 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 130px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-20-proj-2-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-20-proj-2-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.trabalhos-entregues-expert-20-proj-2-span3 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.figma {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -64px;
+  width: 318px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.skill-vs-code3 {
+  padding: 100px 28.12px 100px 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.skill4 {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.time5 {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 25px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+._10029 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  aspect-ratio: 1;
+}
+._10030 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  aspect-ratio: 1;
+}
+.n-vel-de-habilidade-especialista-803 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -9px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-especialista-803-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-803-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-especialista-803-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-especialista-803-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-especialista-803-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-habilidoso-6-anos2 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 59px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-habilidoso-6-anos-2-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-habilidoso-6-anos-2-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-habilidoso-6-anos-2-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-habilidoso-6-anos-2-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-habilidoso-6-anos-2-span5 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-especialista-15-proj {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 129px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-especialista-15-proj-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-especialista-15-proj-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.v-s-code {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -65px;
+  width: 318px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.skill-accloud3 {
+  padding: 100px 28.12px 100px 28.12px;
+  display: flex;
+  flex-direction: row;
+  gap: 3.75px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+._10031 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -10px;
+  aspect-ratio: 1;
+}
+._10032 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.7);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 15px;
+  aspect-ratio: 1;
+}
+._10033 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.3);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 40px;
+  aspect-ratio: 1;
+}
+._10034 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(215, 0, 4, 0.7);
+  border-width: 20px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 40px;
+  aspect-ratio: 1;
+}
+.skill-text10 {
+  flex-shrink: 0;
+  width: 400px;
+  height: 265.46px;
+  position: static;
+}
+.n-vel-de-habilidade-expert-1007 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -9.46px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-1007-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1007-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-1007-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1007-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-expert-1007-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-expert-10-anos-3-span6 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-3-span7 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-expert-10-anos-3-span8 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-expert-10-anos-3-span9 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.tempo-de-uso-expert-10-anos-3-span10 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-20-proj-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-20-proj-span4 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.trabalhos-entregues-expert-20-proj-span5 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.adobe-creative-cloud {
+  color: #ffac00;
+  text-align: left;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -65.46px;
+  width: 400px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.skill-worpress3 {
+  padding: 100px 28.12px 100px 28.12px;
+  display: flex;
+  flex-direction: column;
+  gap: 3.75px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 305px;
+  position: relative;
+  aspect-ratio: 1;
+}
+._10035 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.3);
+  border-width: 18.75px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -9px;
+  aspect-ratio: 1;
+}
+._10036 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(255, 172, 0, 0.7);
+  border-width: 18.75px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: -9px;
+  aspect-ratio: 1;
+}
+._10037 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.3);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 16px;
+  aspect-ratio: 1;
+}
+._602 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(0, 163, 22, 0.7);
+  border-width: 20px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 25px;
+  top: 16px;
+  aspect-ratio: 1;
+}
+.jobs2 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50px;
+  top: 41px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.n-vel-de-habilidade-expert-1008 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -3.54px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.n-vel-de-habilidade-expert-1008-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1008-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.n-vel-de-habilidade-expert-1008-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.n-vel-de-habilidade-expert-1008-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.n-vel-de-habilidade-expert-1008-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.tempo-de-uso-h-abilidoso-8-anos {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 64.46px;
+  width: 236.73px;
+  height: 73px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tempo-de-uso-h-abilidoso-8-anos-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-h-abilidoso-8-anos-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.tempo-de-uso-h-abilidoso-8-anos-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.tempo-de-uso-h-abilidoso-8-anos-span4 {
+  color: #00a316;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.trabalhos-entregues-expert-20-proj3 {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: 134.46px;
+  width: 237.73px;
+  height: 71px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trabalhos-entregues-expert-20-proj-3-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.trabalhos-entregues-expert-20-proj-3-span2 {
+  color: #d70004;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.word-press2 {
+  color: #ffac00;
+  text-align: right;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: absolute;
+  left: -218px;
+  top: -60px;
+  width: 399px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.habilidades {
+  color: #ffac00;
+  text-align: left;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 55px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 252.46px;
+  width: 400px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.bars {
+  display: flex;
+  flex-direction: column;
+  gap: 2795px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1500px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.topbar {
+  background: #ffac00;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 152.46px;
+  position: relative;
+}
+.eng-bra {
+  flex-shrink: 0;
+  width: 133.08px;
+  height: 50px;
+  position: absolute;
+  left: 41px;
+  top: 74px;
+  overflow: visible;
+  aspect-ratio: 133.08/50;
+}
+.mode {
+  flex-shrink: 0;
+  width: 92.31px;
+  height: 50px;
+  position: absolute;
+  left: 41px;
+  top: 14px;
+  overflow: visible;
+  aspect-ratio: 92.31/50;
+}
+.menu {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 757px;
+  top: 90px;
+}
+.menu2 {
+  flex-shrink: 0;
+  width: 275px;
+  height: 45px;
+  position: relative;
+}
+.portf-lio {
+  color: #0f051c;
+  text-align: left;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  right: 0px;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  width: 275px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.menu3 {
+  flex-shrink: 0;
+  width: 151px;
+  height: 45px;
+  position: relative;
+}
+.in-cio {
+  color: #0f051c;
+  text-align: left;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 150px;
+  height: 45px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.menu4 {
+  flex-shrink: 0;
+  width: 240px;
+  height: 45px;
+  position: relative;
+}
+.servi-os {
+  color: #0f051c;
+  text-align: left;
+  font-family: "RubikDirt-Regular", sans-serif;
+  font-size: 45px;
+  font-weight: 400;
+  text-transform: uppercase;
+  position: absolute;
+  right: 0px;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+  width: 240px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
