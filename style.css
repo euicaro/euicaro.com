@@ -1,14 +1,14 @@
-._0-index-bra-dark,
-._0-index-bra-dark * {
+._0-index-bra-light,
+._0-index-bra-light * {
   box-sizing: border-box;
 }
-._0-index-bra-dark {
-  background: #0f051c;
+._0-index-bra-light {
+  background: var(--cta-elements, #ffac00);
   height: 3130px;
   position: relative;
 }
 .bottombar {
-  background: #ffac00;
+  background: var(--cta-menus, #0f051c);
   padding: 54px 206px 54px 206px;
   display: flex;
   flex-direction: row;
@@ -18,11 +18,11 @@
   width: 1500px;
   height: 152.46px;
   position: absolute;
-  left: 1px;
+  left: 0px;
   top: 2978px;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   text-align: left;
   position: relative;
   display: flex;
@@ -30,74 +30,74 @@
   justify-content: flex-start;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span2 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 35px;
   font-weight: 600;
   text-transform: uppercase;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span3 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span4 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 40px;
   font-weight: 600;
   text-transform: uppercase;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span5 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span6 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span7 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span8 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span9 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span10 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span11 {
-  color: #0f051c;
+  color: var(--text-primary, #ffac00);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 40px;
   font-weight: 600;
@@ -131,20 +131,20 @@
   justify-content: flex-start;
 }
 .clientes-principais-span {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-span2 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-span3 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
@@ -156,54 +156,59 @@
   font-weight: 600;
 }
 .clientes-principais-span5 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.clientes-principais-span6 {
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
-.clientes-principais-span6 {
-  color: #ffac00;
+.clientes-principais-span7 {
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
-.clientes-principais-span7 {
-  color: #ffac00;
+.clientes-principais-span8 {
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
-}
-.clientes-principais-span8 {
-  color: #ffac00;
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
 }
 .clientes-principais-span9 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
+.clientes-principais-span10 {
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
-.clientes-principais-span10 {
-  color: #ffac00;
+.clientes-principais-span11 {
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
-.clientes-principais-span11 {
-  color: #ffac00;
+.clientes-principais-span12 {
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .design2 {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 50px;
   height: 50px;
@@ -213,7 +218,7 @@
   aspect-ratio: 1;
 }
 .botton {
-  background: #ffac00;
+  background: #0f051c;
   border-radius: 55px;
   width: 325px;
   height: 65px;
@@ -222,13 +227,13 @@
   top: -8px;
 }
 .funcional {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -83px);
+  left: calc(50% - -85px);
   top: calc(50% - -11px);
   width: 156px;
   height: 11px;
@@ -237,15 +242,15 @@
   justify-content: flex-end;
 }
 .prot-tipo {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 35px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -73px);
+  left: calc(50% - -84px);
   top: calc(50% - 23px);
-  width: 166px;
+  width: 157px;
   height: 26px;
   display: flex;
   align-items: center;
@@ -255,15 +260,15 @@
   width: 99.95%;
   height: 100%;
   position: absolute;
-  right: 4.05%;
-  left: -4%;
+  right: 0.05%;
+  left: 0%;
   bottom: 0%;
   top: 0%;
   overflow: visible;
   aspect-ratio: 49.97/50;
 }
 .consultoria-em-design {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -277,20 +282,20 @@
   justify-content: flex-start;
 }
 .consultoria-em-design-span {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
 }
 .consultoria-em-design-span2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
   text-transform: lowercase;
 }
 .consultoria-em-design-span3 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
@@ -310,7 +315,7 @@
   top: 2485px;
 }
 .artista-multim-dia {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -334,52 +339,51 @@
   justify-content: flex-start;
 }
 .consultoria-em-design-2-span {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-2-span2 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-2-span3 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-2-span4 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-2-span5 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-2-span6 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-2-span7 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .art {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 50px;
   height: 50px;
@@ -414,7 +418,7 @@
   top: 1946px;
 }
 .colunista2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -438,33 +442,33 @@
   justify-content: flex-start;
 }
 .consultoria-em-design-3-span {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span2 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span3 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span4 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span5 {
-  color: #ffffff;
+  color: #000000;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
@@ -477,98 +481,97 @@
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span7 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span8 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span9 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span10 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span11 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span12 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span13 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span14 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span15 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span16 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span17 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span18 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span19 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-3-span20 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .tealfeed {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 50px;
   height: 50px;
@@ -578,13 +581,13 @@
   aspect-ratio: 1;
 }
 .prot-tipo2 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 35px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -88px);
+  left: calc(50% - -90px);
   top: calc(50% - 32px);
   display: flex;
   align-items: center;
@@ -615,7 +618,7 @@
   top: 1252px;
 }
 .clientes-principais2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -627,26 +630,26 @@
   justify-content: flex-start;
 }
 .clientes-principais-2-span {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
 }
 .clientes-principais-2-span2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
   text-transform: uppercase;
 }
 .clientes-principais-2-span3 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
 }
 .clientes-principais3 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
@@ -658,190 +661,190 @@
   justify-content: flex-start;
 }
 .clientes-principais-3-span {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span3 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span4 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span5 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span6 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span7 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span8 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span9 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span10 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span11 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span12 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span13 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span14 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span15 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span16 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span17 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span18 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span19 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
 .clientes-principais-3-span20 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span21 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span22 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span23 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span24 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span25 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span26 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-3-span27 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-3-span28 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais4 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   text-align: left;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
@@ -856,137 +859,136 @@
   justify-content: flex-start;
 }
 .clientes-principais-4-span {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span2 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span3 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span4 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span5 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span6 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span7 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span8 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span9 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span10 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span11 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span12 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span13 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span14 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span15 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span16 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span17 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span18 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .clientes-principais-4-span19 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .clientes-principais-4-span20 {
-  color: #ffac00;
+  color: var(--cta-icons, #0f051c);
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .cv-eng {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 48px;
   height: 48px;
@@ -1007,7 +1009,6 @@
   aspect-ratio: 66.63/54.3;
 }
 .cv-br {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 48px;
   height: 48px;
@@ -1085,7 +1086,7 @@
   object-fit: cover;
 }
 .clients2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -1099,14 +1100,14 @@
   justify-content: flex-start;
 }
 .clients-2-span {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
   text-transform: uppercase;
 }
 .clients-2-span2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
@@ -1123,7 +1124,6 @@
   top: 540px;
 }
 .e-mail {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 50px;
   height: 50px;
@@ -1133,26 +1133,26 @@
   aspect-ratio: 1;
 }
 .funcional2 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -151px);
+  left: calc(50% - -153px);
   top: calc(50% - -7px);
   display: flex;
   align-items: center;
   justify-content: flex-end;
 }
 .prot-tipo3 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 35px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -74px);
+  left: calc(50% - -76px);
   top: calc(50% - 32px);
   display: flex;
   align-items: center;
@@ -1162,13 +1162,12 @@
   width: 55px;
   height: 55px;
   position: absolute;
-  left: -3px;
+  left: -5px;
   top: -3px;
   overflow: visible;
   aspect-ratio: 1;
 }
 .linkedin {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 50px;
   height: 50px;
@@ -1178,26 +1177,26 @@
   aspect-ratio: 1;
 }
 .funcional3 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -156px);
+  left: calc(50% - -158px);
   top: calc(50% - -7px);
   display: flex;
   align-items: center;
   justify-content: flex-end;
 }
 .prot-tipo4 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 35px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -101px);
+  left: calc(50% - -103px);
   top: calc(50% - 32px);
   display: flex;
   align-items: center;
@@ -1215,7 +1214,6 @@
   aspect-ratio: 46/49.75;
 }
 .whatsapp {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 50px;
   height: 50px;
@@ -1224,13 +1222,13 @@
   top: 180px;
 }
 .funcional4 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -114px);
+  left: calc(50% - -116px);
   top: calc(50% - -7px);
   display: flex;
   align-items: center;
@@ -1246,7 +1244,6 @@
   aspect-ratio: 1;
 }
 .behance {
-  background: linear-gradient(to left, #0f051c, #0f051c);
   flex-shrink: 0;
   width: 50px;
   height: 50px;
@@ -1255,26 +1252,26 @@
   top: 180px;
 }
 .funcional5 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 15px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -133px);
+  left: calc(50% - -135px);
   top: calc(50% - -7px);
   display: flex;
   align-items: center;
   justify-content: flex-end;
 }
 .prot-tipo5 {
-  color: #0f051c;
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 35px;
   font-weight: 600;
   position: absolute;
-  left: calc(50% - -94px);
+  left: calc(50% - -96px);
   top: calc(50% - 32px);
   display: flex;
   align-items: center;
@@ -1357,7 +1354,7 @@
   top: 252.46px;
 }
 .icaro-batista {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 75px;
@@ -1370,7 +1367,7 @@
   justify-content: flex-start;
 }
 .ux-ui-designer {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -1382,14 +1379,14 @@
   justify-content: flex-start;
 }
 .ux-ui-designer-span {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
   text-transform: uppercase;
 }
 .ux-ui-designer-span2 {
-  color: #ffac00;
+  color: var(--cta-menus, #0f051c);
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
@@ -1421,7 +1418,7 @@
   top: 0px;
 }
 .topbar2 {
-  background: #ffac00;
+  background: var(--cta-menus, #0f051c);
   align-self: stretch;
   flex-shrink: 0;
   height: 152.46px;
@@ -1453,7 +1450,7 @@
   position: relative;
 }
 .portf-lio {
-  color: #0f051c;
+  color: #ffac00;
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 45px;
@@ -1476,7 +1473,7 @@
   position: relative;
 }
 .servi-os {
-  color: #0f051c;
+  color: #ffac00;
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 45px;
@@ -1487,7 +1484,7 @@
   bottom: 0%;
   top: 0%;
   height: 100%;
-  width: 240px;
+  width: 241px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
@@ -1499,7 +1496,7 @@
   position: relative;
 }
 .habilidades {
-  color: #0f051c;
+  color: #ffac00;
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 45px;
@@ -1507,19 +1504,20 @@
   text-transform: uppercase;
   position: absolute;
   right: 0px;
-  top: 0px;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
   width: 325px;
-  height: 45px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
 }
 .mode {
-  width: 92.31px;
+  width: 92px;
   height: 50px;
   position: absolute;
   left: 41px;
   top: 17px;
   overflow: visible;
-  aspect-ratio: 92.31/50;
+  aspect-ratio: 92/50;
 }
