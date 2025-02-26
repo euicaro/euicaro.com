@@ -1,104 +1,91 @@
-._1-servi-os-bra-light,
-._1-servi-os-bra-light * {
+._1-servi-os-eng-dark,
+._1-servi-os-eng-dark * {
   box-sizing: border-box;
 }
-._1-servi-os-bra-light {
-  background: var(--cta-elements, #ffac00);
+._1-servi-os-eng-dark {
+  background: #0f051c;
   height: 2528px;
   position: relative;
   overflow: hidden;
 }
 .bottombar {
-  background: var(--cta-menus, #0f051c);
+  background: #ffac00;
   padding: 49px 203px 49px 203px;
   display: flex;
   flex-direction: row;
   gap: 10px;
   align-items: center;
   justify-content: center;
-  width: 1500px;
-  height: 152px;
+  width: 1497px;
+  height: 152.46px;
   position: absolute;
   left: 0px;
   top: 2376px;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro {
+  color: #0f051c;
   text-align: left;
   position: relative;
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span2 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span2 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 35px;
   font-weight: 600;
   text-transform: uppercase;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span3 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span3 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span4 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span4 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 40px;
   font-weight: 600;
   text-transform: uppercase;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span5 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span5 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span6 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span6 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span7 {
-  color: var(--cta-elements, #ffac00);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: lowercase;
-}
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span8 {
-  color: var(--cta-elements, #ffac00);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span9 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span7 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: uppercase;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span10 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span8 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
-.todos-direitos-reservados-2022-criado-e-desenvolvido-euicaro-span11 {
-  color: var(--cta-elements, #ffac00);
+.all-rights-reserved-2022-created-and-developed-euicaro-span9 {
+  color: #0f051c;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 40px;
   font-weight: 600;
@@ -134,7 +121,7 @@
   position: relative;
 }
 .consultor-em-design {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -147,17 +134,17 @@
   justify-content: flex-start;
 }
 ._2011-hoje {
-  color: var(--cta-menus, #0f051c);
+  color: #ffffff;
   text-align: right;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
   position: relative;
-  width: 410px;
+  width: 425px;
   height: 38px;
 }
 .agencias-de-publicidade-e-aut-nomo {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
@@ -170,26 +157,26 @@
   justify-content: flex-end;
 }
 .agencias-de-publicidade-e-aut-nomo-span {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
 }
 .agencias-de-publicidade-e-aut-nomo-span2 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
   text-transform: lowercase;
 }
 .agencias-de-publicidade-e-aut-nomo-span3 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
 }
 .consultoria-em-design {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   text-align: left;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
@@ -197,20 +184,20 @@
   font-weight: 600;
   position: relative;
   width: 426px;
-  height: 503px;
+  height: 471px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
 }
 .consultoria-em-design-span {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
   font-weight: 600;
 }
 .consultoria-em-design-span2 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
@@ -218,14 +205,14 @@
   text-transform: lowercase;
 }
 .consultoria-em-design-span3 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
   font-weight: 600;
 }
 .consultoria-em-design-span4 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
@@ -233,14 +220,14 @@
   text-transform: lowercase;
 }
 .consultoria-em-design-span5 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
   font-weight: 600;
 }
 .consultoria-em-design-span6 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
@@ -261,130 +248,147 @@
   height: 649px;
   position: relative;
 }
-.ux-research {
-  color: var(--cta-menus, #0f051c);
+.consultoria-em-design2 {
+  color: #ffac00;
   text-align: left;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: 230px;
+  width: 427px;
+  height: 532px;
+}
+.consultoria-em-design-2-span {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+}
+.consultoria-em-design-2-span2 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.consultoria-em-design-2-span3 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+}
+.consultoria-em-design-2-span4 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.consultoria-em-design-2-span5 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+}
+.consultoria-em-design-2-span6 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.consultoria-em-design-2-span7 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+}
+.consultoria-em-design-2-span8 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.consultoria-em-design-2-span9 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+}
+.consultoria-em-design-2-span10 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.ux-research {
+  color: #ffac00;
+  text-align: right;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
   position: relative;
-  width: 377px;
+  width: 419px;
   display: flex;
   align-items: flex-end;
-  justify-content: flex-start;
+  justify-content: flex-end;
 }
 ._2011-hoje2 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffffff;
   text-align: right;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
   position: relative;
-  width: 352px;
+  width: 405px;
   height: 38px;
 }
 .agencias-de-publicidade-e-aut-nomo2 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
   position: relative;
-  width: 364px;
+  width: 419px;
   height: 61px;
   display: flex;
   align-items: center;
   justify-content: flex-end;
 }
 .agencias-de-publicidade-e-aut-nomo-2-span {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
 }
 .agencias-de-publicidade-e-aut-nomo-2-span2 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
   text-transform: lowercase;
 }
 .agencias-de-publicidade-e-aut-nomo-2-span3 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
-}
-.consultoria-em-design2 {
-  color: var(--cta-menus, #0f051c);
-  text-align: left;
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  position: absolute;
-  left: 0px;
-  top: 225px;
-  width: 427px;
-  height: 494px;
-}
-.consultoria-em-design-2-span {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-2-span2 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: lowercase;
-}
-.consultoria-em-design-2-span3 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-2-span4 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: lowercase;
-}
-.consultoria-em-design-2-span5 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-.consultoria-em-design-2-span6 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-2-span7 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: lowercase;
-}
-.consultoria-em-design-2-span8 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-2-span9 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: lowercase;
 }
 .dire-o-de-arte {
   display: flex;
@@ -401,171 +405,114 @@
   position: relative;
 }
 .dire-o-de-arte2 {
-  color: var(--cta-menus, #0f051c);
-  text-align: left;
+  color: #ffac00;
+  text-align: right;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
   font-weight: 400;
-  position: absolute;
-  left: -22px;
-  top: 0px;
-  width: 472px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: flex-start;
-}
-.dire-o-de-arte-2-span {
-  color: var(--cta-menus, #0f051c);
-  font-family: "RubikDirt-Regular", sans-serif;
-  font-size: 55px;
-  font-weight: 400;
-}
-.dire-o-de-arte-2-span2 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "RubikDirt-Regular", sans-serif;
-  font-size: 55px;
-  font-weight: 400;
-  text-transform: lowercase;
-}
-.dire-o-de-arte-2-span3 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "RubikDirt-Regular", sans-serif;
-  font-size: 55px;
-  font-weight: 400;
-}
-.consultoria-em-design3 {
-  color: var(--cta-menus, #0f051c);
-  text-align: left;
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  letter-spacing: -0.05em;
-  font-weight: 600;
   position: absolute;
   left: 0px;
-  top: 217px;
+  top: 0px;
   width: 427px;
-  height: 598px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.consultoria-em-design3 {
+  color: #ffac00;
+  text-align: left;
+  font-family: "Quicksand-Bold", sans-serif;
+  font-size: 30px;
+  letter-spacing: -0.05em;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 227px;
+  width: 427px;
+  height: 608px;
 }
 .consultoria-em-design-3-span {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
 }
 .consultoria-em-design-3-span2 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span3 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
 }
 .consultoria-em-design-3-span4 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span5 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
 }
 .consultoria-em-design-3-span6 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span7 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 .consultoria-em-design-3-span8 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: lowercase;
 }
 .consultoria-em-design-3-span9 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
+  color: #ffac00;
+  font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
-  font-weight: 600;
-  text-transform: uppercase;
-}
-.consultoria-em-design-3-span10 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  letter-spacing: -0.05em;
-  font-weight: 600;
-  text-transform: lowercase;
-}
-.consultoria-em-design-3-span11 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  letter-spacing: -0.05em;
-  font-weight: 600;
-}
-.consultoria-em-design-3-span12 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  letter-spacing: -0.05em;
-  font-weight: 600;
-  text-transform: lowercase;
-}
-.consultoria-em-design-3-span13 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  letter-spacing: -0.05em;
-  font-weight: 600;
-}
-.consultoria-em-design-3-span14 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  letter-spacing: -0.05em;
-  font-weight: 600;
-  text-transform: lowercase;
+  font-weight: 700;
 }
 ._2011-hoje3 {
-  color: #000000;
+  color: #ffffff;
   text-align: right;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   font-weight: 700;
   position: absolute;
-  left: 57px;
+  left: 64px;
   top: 79px;
   width: 363px;
   height: 38px;
 }
 .agencias-de-publicidade-e-aut-nomo3 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   text-align: right;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
@@ -581,14 +528,14 @@
   justify-content: flex-end;
 }
 .agencias-de-publicidade-e-aut-nomo-3-span {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
   font-weight: 700;
 }
 .agencias-de-publicidade-e-aut-nomo-3-span2 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
@@ -596,14 +543,14 @@
   text-transform: lowercase;
 }
 .agencias-de-publicidade-e-aut-nomo-3-span3 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-Bold", sans-serif;
   font-size: 30px;
   letter-spacing: -0.05em;
   font-weight: 700;
 }
 .experi-ncia-profissional {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -614,32 +561,6 @@
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
-}
-.experi-ncia-profissional-span {
-  color: var(--cta-menus, #0f051c);
-  font-family: "RubikDirt-Regular", sans-serif;
-  font-size: 55px;
-  font-weight: 400;
-}
-.experi-ncia-profissional-span2 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "RubikDirt-Regular", sans-serif;
-  font-size: 55px;
-  font-weight: 400;
-  text-transform: lowercase;
-}
-.experi-ncia-profissional-span3 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "RubikDirt-Regular", sans-serif;
-  font-size: 55px;
-  font-weight: 400;
-}
-.experi-ncia-profissional-span4 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "RubikDirt-Regular", sans-serif;
-  font-size: 55px;
-  font-weight: 400;
-  text-transform: lowercase;
 }
 .ux-ui {
   display: flex;
@@ -670,7 +591,7 @@
   position: relative;
 }
 .ux-research3 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -714,73 +635,62 @@
   text-transform: lowercase;
 }
 .consultoria-em-design-4-span4 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffffff;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-4-span5 {
-  color: var(--cta-menus, #0f051c);
-  list-style-type: disc;
-  padding-left: 1em;
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-4-span6 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-4-span7 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-4-span8 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-4-span9 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-4-span10 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-4-span11 {
-  color: var(--cta-menus, #0f051c);
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-4-span12 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
@@ -788,21 +698,38 @@
   font-weight: 600;
   text-transform: lowercase;
 }
+.consultoria-em-design-4-span12 {
+  color: #ffac00;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
 .consultoria-em-design-4-span13 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
+  list-style-type: disc;
+  padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-4-span14 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.consultoria-em-design-4-span15 {
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
-.consultoria-em-design-4-span15 {
-  color: var(--cta-menus, #0f051c);
+.consultoria-em-design-4-span16 {
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
@@ -829,19 +756,19 @@
   font-weight: 600;
   position: relative;
   width: 426px;
-  height: 488px;
+  height: 494px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
 }
 .consultoria-em-design-5-span {
-  color: var(--text-secundary, #0f051c);
+  color: #ffffff;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-5-span2 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
@@ -849,102 +776,78 @@
 }
 .consultoria-em-design-5-span3 {
   color: #ffac00;
+  list-style-type: disc;
+  padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-5-span4 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-5-span5 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-5-span6 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-5-span7 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-5-span8 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-5-span9 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-5-span10 {
-  color: var(--cta-menus, #0f051c);
-  list-style-type: disc;
-  padding-left: 1em;
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-5-span11 {
-  color: var(--cta-menus, #0f051c);
-  list-style-type: disc;
-  padding-left: 1em;
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-5-span12 {
-  color: var(--cta-menus, #0f051c);
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-5-span13 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: lowercase;
-}
-.consultoria-em-design-5-span14 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-5-span15 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
@@ -971,33 +874,36 @@
   font-weight: 600;
   position: relative;
   width: 427px;
-  height: 598px;
+  height: 492px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-start;
 }
 .consultoria-em-design-6-span {
-  color: var(--text-secundary, #0f051c);
+  color: #ffffff;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .consultoria-em-design-6-span2 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-6-span3 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
+  list-style-type: disc;
+  padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: uppercase;
 }
 .consultoria-em-design-6-span4 {
-  color: var(--text-secundary, #0f051c);
+  color: #ffac00;
+  list-style-type: disc;
+  padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
@@ -1005,115 +911,105 @@
 }
 .consultoria-em-design-6-span5 {
   color: #ffac00;
+  list-style-type: disc;
+  padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-6-span6 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-6-span7 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-6-span8 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-6-span9 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-6-span10 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-6-span11 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-6-span12 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
+  text-transform: lowercase;
 }
 .consultoria-em-design-6-span13 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   list-style-type: disc;
   padding-left: 1em;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-  text-transform: lowercase;
 }
 .consultoria-em-design-6-span14 {
-  color: var(--cta-menus, #0f051c);
-  list-style-type: disc;
-  padding-left: 1em;
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-}
-.consultoria-em-design-6-span15 {
-  color: var(--cta-menus, #0f051c);
-  list-style-type: disc;
-  padding-left: 1em;
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
+.consultoria-em-design-6-span15 {
+  color: #ffac00;
+  font-family: "Quicksand-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+}
 .consultoria-em-design-6-span16 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .consultoria-em-design-6-span17 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
-}
-.consultoria-em-design-6-span18 {
-  color: var(--cta-menus, #0f051c);
-  font-family: "Quicksand-SemiBold", sans-serif;
-  font-size: 30px;
-  font-weight: 600;
-  text-transform: lowercase;
 }
 .o-que-fa-o {
   display: flex;
@@ -1130,7 +1026,7 @@
   top: 252px;
 }
 .o-que-fa-o2 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 55px;
@@ -1142,7 +1038,7 @@
   justify-content: flex-start;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   text-align: left;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
@@ -1154,52 +1050,52 @@
   justify-content: flex-start;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span2 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span3 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span4 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span5 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span6 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
   text-transform: lowercase;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span7 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
 }
 .coordeno-e-trabalhos-nas-tr-s-etapas-da-experi-ncia-de-usu-rio-e-interface-do-usu-rio-span8 {
-  color: var(--cta-menus, #0f051c);
+  color: #ffac00;
   font-family: "Quicksand-SemiBold", sans-serif;
   font-size: 30px;
   font-weight: 600;
@@ -1212,16 +1108,16 @@
   align-items: flex-start;
   justify-content: flex-start;
   width: 1500px;
-  height: 150px;
+  height: 152px;
   position: absolute;
   left: 0px;
   top: 0px;
 }
 .topbar {
-  background: var(--cta-menus, #0f051c);
+  background: #ffac00;
+  align-self: stretch;
   flex-shrink: 0;
-  width: 1500px;
-  height: 152px;
+  height: 152.46px;
   position: relative;
 }
 .eng-bra {
@@ -1231,8 +1127,41 @@
   position: absolute;
   left: 40px;
   top: 76px;
-  overflow: visible;
   aspect-ratio: 133.08/50;
+}
+.eng-bra2 {
+  border-radius: 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.uk-fill {
+  width: 28.9%;
+  height: 53.85%;
+  position: absolute;
+  right: 31.21%;
+  left: 39.88%;
+  bottom: -30.77%;
+  top: 76.92%;
+  transform: translate(-38.46px, -26.92px);
+  overflow: visible;
+}
+.br-stroke {
+  width: 34.68%;
+  height: 65.93%;
+  position: absolute;
+  right: -26.01%;
+  left: 91.33%;
+  bottom: 15.6%;
+  top: 18.46%;
+  transform: translate(-46.15px, 0px);
+  overflow: visible;
+  aspect-ratio: 46.15/32.97;
 }
 .mode {
   flex-shrink: 0;
@@ -1250,19 +1179,21 @@
   gap: 20px;
   align-items: center;
   justify-content: flex-start;
-  width: 800px;
+  width: 790px;
   position: absolute;
   left: 669px;
   top: 92px;
 }
 .menu2 {
   flex-shrink: 0;
-  width: 275px;
+  width: 167px;
   height: 45px;
-  position: relative;
+  position: absolute;
+  left: 623px;
+  top: 0px;
 }
-.portf-lio {
-  color: #ffac00;
+.habilidades {
+  color: #0f051c;
   text-align: right;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 45px;
@@ -1270,10 +1201,9 @@
   text-transform: uppercase;
   position: absolute;
   right: 0px;
-  bottom: 0%;
-  top: 0%;
-  height: 100%;
-  width: 275px;
+  top: 0px;
+  width: 325px;
+  height: 45px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
@@ -1282,33 +1212,34 @@
   flex-shrink: 0;
   width: 150px;
   height: 45px;
-  position: relative;
+  position: absolute;
+  left: 376px;
+  top: 0px;
 }
 .in-cio {
-  color: #ffac00;
-  text-align: right;
+  color: #0f051c;
+  text-align: left;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 45px;
   font-weight: 400;
   text-transform: uppercase;
   position: absolute;
-  right: 0px;
-  top: 50%;
-  translate: 0 -50%;
-  width: 150px;
-  height: 45px;
+  right: -5px;
+  top: -8px;
   display: flex;
   align-items: flex-end;
-  justify-content: flex-end;
+  justify-content: flex-start;
 }
 .menu4 {
   flex-shrink: 0;
-  width: 325px;
+  width: 279px;
   height: 45px;
-  position: relative;
+  position: absolute;
+  left: 0px;
+  top: 0px;
 }
-.habilidades {
-  color: #ffac00;
+.portf-lio {
+  color: #0f051c;
   text-align: right;
   font-family: "RubikDirt-Regular", sans-serif;
   font-size: 45px;
@@ -1319,7 +1250,7 @@
   bottom: 0%;
   top: 0%;
   height: 100%;
-  width: 325px;
+  width: 275px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
