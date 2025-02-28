@@ -1,0 +1,13 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --color-guide: linear-gradient(to left, #ffac00, #ffac00),
+    linear-gradient(to left, #0f051c, #0f051c),
+    linear-gradient(to left, #ffffff, #ffffff),
+    linear-gradient(to left, #000000, #000000),
+    linear-gradient(to left, #00a316, #00a316),
+    linear-gradient(to left, #d70004, #d70004);
+
+  /* Fonts */
+  /* Effects */
+}
